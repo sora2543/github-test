@@ -1,2 +1,3 @@
 This is test1
 Add second line
+add function
